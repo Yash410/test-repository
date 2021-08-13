@@ -1,3 +1,2 @@
 # test-repository
-This is a test description
-This is a second line
+This is a second file
